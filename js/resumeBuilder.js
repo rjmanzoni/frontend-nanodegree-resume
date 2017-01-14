@@ -11,7 +11,8 @@ var bio = {
         "location" : "Sao Paulo - SP, Brazi"
     },
     "wellcomeMessage" : "Hi there!",
-    "biopic" : "images/me.png"
+    "biopic" : "images/me.png",
+    "skills" : ["Java", "Perl", "Shell Script", "SQL", "MongoDB", "Apache Cassandra", "Elasticsearch", "Apache Flume", "Logstash", "Apache Hadoop", "Jetty", "WildFly", "REST", "SOAP", "Redis", "Infinispan", "Memcached", "Cryptography", "Apache ActiveMQ", "Linux"]
 }
 
 var education = {
